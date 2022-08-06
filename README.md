@@ -1,9 +1,9 @@
-# Employee Management
+_# Employee Management
 
 A simple employee management system using Laravel.
 
 ## Stack
 
-- Laravel
-- Breeze
-- Filament
+- [Laravel](https://laravel.com/)
+- [Breeze](https://laravel.com/docs/9.x/starter-kits#laravel-breeze)
+- [Filament](https://filamentphp.com/)
