@@ -1,4 +1,4 @@
-_# Employee Management
+# Employee Management
 
 A simple employee management system using Laravel.
 
